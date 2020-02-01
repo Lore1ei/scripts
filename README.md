@@ -1,6 +1,6 @@
 # scripts
 
-<h1> Скрипты на Чистом JavaScript </h1>
+<h1> Скрипты на Чистом JavaScript ES6</h1>
 
 <h2>1. MouseModal</h2>
 
